@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🧠 I’m an engineering student exploring the intersection of **Game Development** and **Software Engineering**.
-- 🎮 Founder of **[SleepyHead Studios](https://sleepyheadgame.itch.io/)** — building narrative-driven and systems-heavy games.
-- 🛠️ Currently diving deep into:
+- 🎮 Founder of [**SleepyHead Studios**](https://sleepyheadgame.itch.io/) — focused on building narrative-driven, systems-heavy games.
+- 🛠️ Currently learning:
   - Multiplayer game dev (Unity + Mirror)
 
 ---
@@ -19,9 +19,9 @@
 ### 🚀 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 **Game Dev**  
 ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white&style=flat)  
@@ -31,8 +31,18 @@
 
 ### 🌟 Featured Projects
 
-- 🌌 [Jetpack Miner (3D Space Trading Game)](https://sleepyheadgame.itch.io/)  
-  _Physics-driven jetpack mechanics, mining loot, trading upgrades, and zero-gravity systems._
+- 🌌 [**Red Orbit**](https://sleepyheadgame.itch.io/)  
+  _Zero-gravity trading & mining game with weight-based movement, physics, and upgrades._
+
+---
+
+### 🔗 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/rahul240505/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/rkrm2twx7/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/rahul2405" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -47,20 +57,19 @@
 
 ### 🎨 Fun Facts
 
-- ✏️ I love drawing game concept art in my free time.
-- 🏏 Big cricket fan — if I’m not coding, I’m probably watching or playing.
-- 🧩 Currently obsessed with solving how multiplayer betrayal works in survival games.
+- ✏️ I love sketching concept art for my games.
+- 🏏 Cricket and video games are my favorite stress buster.
 
 ---
 
 ### 💬 Quote I Live By
 
-> “Work hard till your idol become your rival.”
+> “Work hard till your idol becomes your rival.”
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rahul-240505&theme=dark" alt="streak" />
 </p>
