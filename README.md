@@ -66,7 +66,6 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -80,10 +79,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushSinha2603&icon=9&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rahul-240505&theme=dark" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&show_icons=true&theme=github_dark&hide_border=false" alt="stats" />
   <br/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=rahul-240505&theme=dark" alt="streak" />
 </p>
