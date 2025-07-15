@@ -81,11 +81,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rahul-240505&theme=dark" alt="streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&show_icons=true&theme=github_dark&hide_border=false" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rahul-240505&theme=dark" alt="streak" />
 </p>
