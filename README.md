@@ -67,14 +67,13 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&show_icons=true&theme=github_dark&hide_border=false" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&show_icons=true&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" alt="stats" />
-  <br/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&show_icons=true&theme=github_dark&no-frame=false&no-bg=true&margin-w=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
+  <br/><br/>
 </p>
 
 
