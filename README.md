@@ -66,7 +66,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
   <br/><br/>
@@ -74,6 +73,17 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&show_icons=true&theme=github_dark&no-frame=false&no-bg=true&margin-w=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
   <br/><br/>
+</p>
+
+## 🚀 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues&hide_border=false&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&layout=compact&theme=github_dark&hide_border=false&border_radius=10" alt="Top Languages" width="50%"/>
 </p>
 
 
