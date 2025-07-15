@@ -70,16 +70,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&show_icons=true&theme=github_dark&hide_border=false" alt="stats" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=rahul-240505&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&show_icons=true&theme=github_dark&no-frame=false&no-bg=true&margin-w=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
   <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rahul-240505&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="stats" />
 </p>
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahul-240505&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahul-240505&icon=9&color=7)](https://visitcount.itsvg.in)
