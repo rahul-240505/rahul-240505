@@ -75,21 +75,10 @@
   <br/><br/>
 </p>
 
-## 🚀 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues&hide_border=false&border_radius=10" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-240505&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-240505&layout=compact&theme=github_dark&hide_border=false&border_radius=10" alt="Top Languages" width="50%"/>
-</p>
-
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushSinha2603&limit=5&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rahul-240505&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyushSinha2603&icon=9&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahul-240505&icon=9&color=7)](https://visitcount.itsvg.in)
