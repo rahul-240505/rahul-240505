@@ -22,7 +22,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 **Game Dev**  
-![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white&style=for-the-badge)  ![Mirror](https://img.shields.io/badge/-Mirror%20Networking-FF1493?style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white&style=for-the-badge)  ![Mirror](https://img.shields.io/badge/-Mirror%20Networking-88C700?style=for-the-badge)
 
 ---
 
@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://leetcode.com/u/rahul240505/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/rkrm2twx7/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/rahul2405" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/rahul2405" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-F44336?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </p>
 
 ---
