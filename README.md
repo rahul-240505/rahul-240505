@@ -28,7 +28,7 @@
 
 ### 🌟 Featured Projects
 
-- 🌌 [**Red Orbit**](https://sleepyheadgame.itch.io/)  
+- 🌌 [**Red Orbit**](https://sleepyheadstudios.itch.io/red-orbit-10)  
   _Zero-gravity trading & mining game with weight-based movement, physics, and upgrades._
 
 ---
@@ -64,6 +64,23 @@
 > “Work hard till your idol becomes your rival.”
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AyushSinha2603&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AyushSinha2603&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AyushSinha2603&icon=9&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
