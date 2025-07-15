@@ -45,10 +45,9 @@
 
 ### 🌐 Connect With Me
 
-- 📫 Email: [rkrm2405@gmail.com](mailto:rkrm2405@gmail.com)  
-- 🔗 LinkedIn: [@rahul-kumar-mahato](https://www.linkedin.com/in/rahul-kumar-mahato-36938931a/)  
-- 🕹️ itch.io: [@sleepyheadgame](https://sleepyheadgame.itch.io/)  
-- 💻 GitHub: [@rahul-240505](https://github.com/rahul-240505)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rkrm2405@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rahul-kumar-mahato-36938931a/)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://sleepyheadgame.itch.io/)
 
 ---
 
