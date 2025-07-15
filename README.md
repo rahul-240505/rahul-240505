@@ -19,7 +19,7 @@
 ### 🚀 Tech Stack
 
 **Languages**  
-**![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)**  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 **Game Dev**  
 ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white&style=flat)  ![Mirror](https://img.shields.io/badge/-Mirror%20Networking-FF1493?style=flat)
