@@ -65,8 +65,9 @@
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-240505&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
   <br/>
@@ -76,8 +77,6 @@
   <br/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushSinha2603&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
