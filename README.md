@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar Mahato</h1>
-<h3 align="center">🎮 Aspiring Indie Game Developer | 🎓 BTech CSE @ NIT Rourkela</h3>
+<h1 align="center">Hi, I'm Rahul Kumar Mahato</h1>
+<h3 align="center">Indie Game Developer | BTech CSE @ NIT Rourkela</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-240505&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-240505" />
@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🧠 I’m an engineering student exploring the intersection of **Game Development** and **Software Engineering**.
-- 🎮 Founder of [**SleepyHead Studios**](https://sleepyheadgame.itch.io/) — focused on building narrative-driven, systems-heavy games.
+- 🎮 Founder of [**SleepyHead Studios**](https://sleepyheadstudios.in/) — focused on building narrative-driven, systems-heavy games.
 - 🛠️ Currently learning:
-  - Multiplayer game dev (Unity + Mirror)
+  - Java & Springboot
 
 ---
 
